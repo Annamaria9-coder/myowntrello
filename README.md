@@ -1,2 +1,2 @@
 # myowntrello
-I created my own trello to keep track of my tasks
+I created my own trello to keep track of my tasks because they started getting out of hand lol...
